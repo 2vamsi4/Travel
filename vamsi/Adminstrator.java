@@ -45,7 +45,7 @@ public class Adminstrator {
 		busList.add(new Bus("12", "Hyderabad", "Banglore", "Seater", "AC", 30,
 				Map.of("Hyderabad", 0, "Kurnool", 220, "Banglore", 600)));
 		busList.add(new Bus("13", "Bhimavaram", "Hyderabad", "Seater", "AC", 30,
-				Map.of("Bhimavaram", 0, "Hyderabad", 220, "Banglore", 700)));
+				Map.of("Bhimavaram", 0, "Eluru", 220, "Hyderabad", 700)));
 	}
 
 	public List<Bus> getBusList() {
